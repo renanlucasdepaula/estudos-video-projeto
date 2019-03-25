@@ -1,0 +1,19 @@
+{
+  "name": "estudos-video-projeto",
+  "version": "1.0.0",
+  "description": "Estudos feitos vendo a playlist do filipe deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanlucasdepaula/estudos-video-projeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanlucasdepaula/estudos-video-projeto/issues"
+  },
+  "homepage": "https://github.com/renanlucasdepaula/estudos-video-projeto#readme"
+}
